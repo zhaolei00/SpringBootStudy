@@ -1,0 +1,8 @@
+person:
+  name: zl
+  age: 18
+  like:
+    - a
+    - b
+    - c
+    - e
